@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <std:gwh>
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
@@ -22,5 +22,4 @@ int main(int argc, char *argv[]) {
 	}
 	
     printf("A soma e %d + %d , resultado: %d", numero1, numero2, total);}
-	return 0;
-	
+	return 0:
